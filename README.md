@@ -1,1 +1,1 @@
-# Recipes
+Website created for indian recipes
